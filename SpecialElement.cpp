@@ -1,3 +1,11 @@
+
+// Topic Name Brute Force,mapping 
+
+
+// Time complexity is O(n^2)
+
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
